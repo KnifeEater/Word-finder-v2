@@ -1,6 +1,6 @@
 # Word-finder-v2 (This is slightly better than V4, and is also in JAVA)
 Application that acts as a middle man for finding words. Can be opened anywhere and fully customisable.
-*Note that this code is a modified version of [WORDLE SOLVER](https://github.com/KnifeEater/Wordle-solver) that I made.. in JAVA*  
+*Note that this code is a modified version of [[WORDLE SOLVER](https://github.com/KnifeEater/Wordle-solver)](https://github.com/KnifeEater/WORD-FINDER-V4) that I made... in JAVA*  
   
   
   **Modes**  
